@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bhushan 👋
 
-<!--
-**Bhushan-amolik/Bhushan-amolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data Analyst with 3+ years experience  
+📊 Specializing in SQL, Python, and Zoho Analytics  
+⚡ Focused on automation and business intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Skills
+- SQL (Joins, CTEs, Window Functions)
+- Python (Automation, Data Analysis)
+- Zoho Analytics / Power BI
+- Dashboard Development
+
+---
+
+## 📈 What I Do
+- Build automated reporting systems
+- Create CXO-level dashboards
+- Deliver actionable business insights
+
+---
+
+## 🏆 Highlights
+- Reduced manual reporting effort by 90%
+- Built dashboards for CXO & investor meetings
+- Automated reporting across 20+ branches
+
+---
+
+## 🔗 Connect with me
+LinkedIn: https://linkedin.com/in/bhushan1997
